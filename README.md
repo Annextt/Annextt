@@ -1,5 +1,5 @@
-# E aí, eu sou David Nakahara 💫
-dev, criador de conteúdo, gamer e swagboy 
+# E aí, eu sou David Nakahara 👋
+dev </>, criador de conteúdo, gamer e swagboy 
 
 
 

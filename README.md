@@ -16,7 +16,7 @@ Sou desenvolvedor full-stack, gamer e criador de conteúdo. Apaixonado por tecno
 Também produzo conteúdo no Instagram, compartilhando meus outfits, vivências e lifestyle.  
 Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunidade.
 
-"Code hard, play hard, create harder." 🚀
+
 
 *"Code hard, play hard." 🚀*
 

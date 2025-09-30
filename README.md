@@ -12,7 +12,7 @@ dev, criador de conteúdo, gamer e swagboy 💫
 ---
 
 ## 💻 Sobre mim
-Sou desenvolvedor full-stack, gamer e criador de conteúdo. Apaixonado por tecnologia, programação e criação de experiências digitais.  
+Sou desenvolvedor full-stack, gamer e criador de conteúdo. Apaixonado por tecnologia, programação, criação de experiências digitais e academia.  
 Também produzo conteúdo no Instagram, compartilhando meus outfits, vivências e lifestyle.  
 Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunidade.
 

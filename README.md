@@ -51,9 +51,9 @@ Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunida
 ---
 
 ## 📫 Contato
-- Email: david.nakahara@email.com  
-- Instagram: [@sujeitoprogramador](https://instagram.com/sujeitoprogramador)  
-- Twitch: [fragabr](https://twitch.tv/fragabr)  
+- Email: devdavidnakahara@gmail.com
+- Instagram: [@d4vid_.nk](https://www.instagram.com/d4vid_.nk?igsh=bGUxeHc5bDJ0ZHk3)  
+ 
 
 ---
 

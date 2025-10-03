@@ -45,6 +45,7 @@ Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunida
 ## 🚀 Projetos em destaque
 - [Portfólio Pessoal](https://annextt.github.io/Portefolio/) - Meu portfólio online com React e CSS moderno  
 - [Pop Smoke Fan Page](https://github.com/Annextt/PopSmoke-FanPage) - Tribute a Pop Smoke com HTML e CSS, Woo vibes no código  
+
   
 ---
 
@@ -52,6 +53,7 @@ Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunida
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annextt&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annextt&layout=compact&theme=tokyonight)
+
 
 ---
 

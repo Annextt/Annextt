@@ -43,7 +43,7 @@ Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunida
 ---
 
 ## 🚀 Projetos em destaque
-- [Portfólio Pessoal](https://annextt.github.io/Portefolio/) - Meu portfólio online com React e CSS moderno  
+- 
 - [Pop Smoke Memorial](https://github.com/Annextt/PopSmoke-FanPage) - Tribute a Pop Smoke com HTML e CSS, Woo vibes no código  
 
   

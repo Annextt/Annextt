@@ -6,7 +6,7 @@ dev, criador de conteúdo, gamer e swagboy
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Recruta0007/featured)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d4vid_.nk?igsh=bGUxeHc5bDJ0ZHk3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/login/?next=%2Fwoo_d4vid%252F%26source%3Domni_redirect%2F&source=omni_redirect)
 
 ---
 

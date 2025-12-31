@@ -43,7 +43,7 @@ Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunida
 ---
 
 ## 🚀 Projetos em destaque
-- 
+- [D-Recorder](https://github.com/Annextt/D-Record) - Screen Recorder Software developed by me
 - [Pop Smoke Memorial](https://github.com/Annextt/PopSmoke-FanPage) - Tribute a Pop Smoke com HTML e CSS, Woo vibes no código  
 
   

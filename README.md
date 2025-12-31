@@ -49,11 +49,6 @@ Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunida
   
 ---
 
-## 📊 Estatísticas do GitHub
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annextt&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annextt&layout=compact&theme=tokyonight)
-
 
 ---
 

@@ -43,7 +43,7 @@ Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunida
 
 ## 🚀 Projetos em destaque
 - [D-Recorder](https://github.com/Annextt/D-Record) - Screen Recorder Software developed by me
-- [Pokédex](https://github.com/Annextt/Simple-Pokedex) - Simple Pokédex project built with HTML, CSS and JavaScript. Uses the PokéAPI to fetch basic Pokémon data such as name, image and type
+- [Pokédex](https://github.com/Annextt/Simple-Pokedex) - Simple Pokédex project built with HTML, CSS and JavaScript.
 
   
 ---

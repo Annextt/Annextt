@@ -53,7 +53,7 @@ Sempre buscando aprender coisas novas e compartilhar conhecimento com a comunida
 
 ## 📫 Contato
 - Email: devdavidnakahara@gmail.com
-- Instagram: [@d4vid_.nk]([https://www.instagram.com/d4vid_.nk?igsh=bGUxeHc5bDJ0ZHk3](https://www.instagram.com/woo_d4vid/?igsh=bGUxeHc5bDJ0ZHk3))  
+- Instagram: [@woo.d4vid](https://www.instagram.com/d4vid_.nk?igsh=bGUxeHc5bDJ0ZHk3](https://www.instagram.com/woo_d4vid/?igsh=bGUxeHc5bDJ0ZHk3)  
  
 
 ---

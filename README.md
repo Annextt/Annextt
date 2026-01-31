@@ -92,10 +92,6 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Annextt&theme=tokyonight&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Annextt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 

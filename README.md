@@ -105,6 +105,15 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ## 🎯 Projetos em Destaque
 
+<div align="center">
+
+[![D-Recorder](https://github-readme-stats.vercel.app/api/pin/?username=Annextt&repo=D-Record&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Annextt/D-Record)
+[![Pokédex](https://github-readme-stats.vercel.app/api/pin/?username=Annextt&repo=Simple-Pokedex&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Annextt/Simple-Pokedex)
+
+</div>
+
+### 🔥 Destaques
+
 - **[D-Recorder](https://github.com/Annextt/D-Record)** - Screen Recorder Software desenvolvido do zero com funcionalidades avançadas
 - **[Pokédex](https://github.com/Annextt/Simple-Pokedex)** - Projeto Pokédex interativo construído com HTML, CSS e JavaScript puro
 
@@ -116,6 +125,7 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
   
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Recruta0007/featured)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/woo_d4vid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-nakahara-8a5132320/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdavidnakahara@gmail.com)
 
 <br>
@@ -125,6 +135,14 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 </div>
 
 ---
+
+## 💡 Quote do Dia
+
+<div align="center">
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
+
+</div>
 
 ---
 

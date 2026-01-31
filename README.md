@@ -107,15 +107,6 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ---
 
-## 🎯 Projetos em Destaque
-
-<div align="center">
-
-[![D-Recorder](https://github-readme-stats.vercel.app/api/pin/?username=Annextt&repo=D-Record&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Annextt/D-Record)
-[![Pokédex](https://github-readme-stats.vercel.app/api/pin/?username=Annextt&repo=Simple-Pokedex&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Annextt/Simple-Pokedex)
-
-</div>
-
 ### 🔥 Destaques
 
 - **[Screen-Recorder](https://github.com/Annextt/D-Record)** - Screen Recorder Software desenvolvido do zero com funcionalidades avançadas
@@ -138,14 +129,6 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 </div>
 
 ---
-
-## 💡 Quote do Dia
-
-<div align="center">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
-
-</div>
 
 ---
 

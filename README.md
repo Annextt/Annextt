@@ -15,7 +15,7 @@
 ```typescript
 const david = {
     pronouns: "ele/dele",
-    location: "São Paulo, Brasil 🇧🇷",
+    location: "Sao Paulo, Brasil",
     code: ["JavaScript", "TypeScript", "Solidity", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "games", "fashion", "fitness"],
     technologies: {
@@ -30,9 +30,9 @@ const david = {
         blockchain: ["Solidity", "Web3.js"],
         devOps: ["Git", "GitHub"],
     },
-    currentFocus: "Criando experiências digitais incríveis ✨",
-    hobbies: ["Gaming 🎮", "Academia 💪", "Moda 👕", "Criar conteúdo 📹"],
-    funFact: "Apaixonado por tecnologia, programação e lifestyle!"
+    currentFocus: "Criando experiencias digitais incriveis",
+    hobbies: ["Gaming", "Academia", "Moda", "Criar conteudo"],
+    funFact: "Apaixonado por tecnologia, programacao e lifestyle!"
 };
 ```
 

@@ -92,7 +92,7 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Annextt&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Annextt&theme=tokyonight&hide_border=true&background=0d1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -107,10 +107,19 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ---
 
+## 🎯 Projetos em Destaque
+
+<div align="center">
+
+[![D-Recorder](https://github-readme-stats.vercel.app/api/pin/?username=Annextt&repo=D-Record&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Annextt/D-Record)
+[![Pokédex](https://github-readme-stats.vercel.app/api/pin/?username=Annextt&repo=Simple-Pokedex&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Annextt/Simple-Pokedex)
+
+</div>
+
 ### 🔥 Destaques
 
-- **[Screen-Recorder](https://github.com/Annextt/D-Record)** - Screen Recorder Software desenvolvido do zero com funcionalidades avançadas
-- **[D-Sound](https://github.com/Annextt/D-SOUND)** - D-Sound, player de música local desenvolvido com HTML, CSS e JavaScript, com foco em UX e reprodução de áudio diretamente no navegador.
+- **[D-Recorder](https://github.com/Annextt/D-Record)** - Screen Recorder Software desenvolvido do zero com funcionalidades avançadas
+- **[Pokédex](https://github.com/Annextt/Simple-Pokedex)** - Projeto Pokédex interativo construído com HTML, CSS e JavaScript puro
 
 ---
 
@@ -129,6 +138,14 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 </div>
 
 ---
+
+## 💡 Quote do Dia
+
+<div align="center">
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
+
+</div>
 
 ---
 

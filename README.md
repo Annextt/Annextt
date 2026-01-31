@@ -118,8 +118,8 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ### 🔥 Destaques
 
-- **[D-Recorder](https://github.com/Annextt/D-Record)** - Screen Recorder Software desenvolvido do zero com funcionalidades avançadas
-- **[Pokédex](https://github.com/Annextt/Simple-Pokedex)** - Projeto Pokédex interativo construído com HTML, CSS e JavaScript puro
+- **[Screen-Recorder](https://github.com/Annextt/D-Record)** - Screen Recorder Software desenvolvido do zero com funcionalidades avançadas
+- **[D-Sound](https://github.com/Annextt/D-SOUND)** - D-Sound, player de música local desenvolvido com HTML, CSS e JavaScript, com foco em UX e reprodução de áudio diretamente no navegador.
 
 ---
 

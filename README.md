@@ -16,7 +16,7 @@
 const david = {
     pronouns: "ele/dele",
     location: "Sao Paulo, Brasil",
-    code: ["JavaScript", "TypeScript", "Solidity", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "games", "fashion", "fitness"],
     technologies: {
         frontEnd: {
@@ -27,8 +27,8 @@ const david = {
             js: ["Node.js", "Express"],
         },
         databases: ["MongoDB", "MySQL"],
-        blockchain: ["Solidity", "Web3.js"],
         devOps: ["Git", "GitHub"],
+        tools: ["VS Code", "Postman"]
     },
     currentFocus: "Criando experiencias digitais incriveis",
     hobbies: ["Gaming", "Academia", "Moda", "Criar conteudo"],
@@ -72,20 +72,13 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 </div>
 
-### 🔗 Blockchain
-<div align="center">
-  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-</div>
-
 ### 🛠️ Tools
 <div align="center">
   
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -152,18 +145,6 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Annextt/Annextt/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Annextt/Annextt/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Annextt/Annextt/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---

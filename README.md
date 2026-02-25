@@ -128,8 +128,9 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 # 🎯 Projetos em Destaque
 
+-**[AgendaPro](https://salaoelegancee.netlify.app)** - Plataforma full stack de agendamento e gestão construída com JavaScript (React e Node.js), HTML, CSS e MongoDB, utilizando arquitetura baseada em API REST.
 - **[D-Recorder](https://github.com/Annextt/D-Record)** - Screen Recorder Software desenvolvido do zero com funcionalidades avançadas
-- **[AgendaPro](https://salaoelegancee.netlify.app)** - Plataforma full stack de agendamento e gestão construída com JavaScript (React e Node.js), HTML, CSS e MongoDB, utilizando arquitetura baseada em API REST.
+- 
 ---
 
 ## 🌐 Conecte-se Comigo

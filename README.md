@@ -103,11 +103,10 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ---
 
-## 🎯 Projetos em Destaque
+# 🎯 Projetos em Destaque
 
 - **[D-Recorder](https://github.com/Annextt/D-Record)** - Screen Recorder Software desenvolvido do zero com funcionalidades avançadas
-- **[Pokédex](https://github.com/Annextt/Simple-Pokedex)** - Projeto Pokédex interativo construído com HTML, CSS e JavaScript puro
-
+- **[AgendaPro](https://salaoelegancee.netlify.app)** - Plataforma full stack de agendamento e gestão construída com JavaScript (React e Node.js), HTML, CSS e MongoDB, utilizando arquitetura baseada em API REST.
 ---
 
 ## 🌐 Conecte-se Comigo

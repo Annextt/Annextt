@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=David%20Nakahara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Content%20Creator%20%7C%20Gamer&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=David%20Nakahara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20QA%20Engineer%20%7C%20Always%20Learning&descAlignY=51&descAlign=50"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=E+a%C3%AD%2C+sou+David+Nakahara+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Content+Creator+%26+Gamer+%F0%9F%8E%AE;Swagboy+%F0%9F%94%A5;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=E+a%C3%AD%2C+sou+David+Nakahara+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;QA+Engineer+%7C+Testes+%26+Qualidade+%F0%9F%94%8D;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>"Code hard, play hard." 🚀</em>
+  <em>"Code hard, test harder." 🚀</em>
 </p>
 
 ---
@@ -17,7 +17,7 @@ const david = {
     pronouns: "ele/dele",
     location: "Sao Paulo, Brasil",
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "games", "fashion", "fitness"],
+    askMeAbout: ["web dev", "QA", "APIs REST", "tech", "games"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -27,22 +27,23 @@ const david = {
             js: ["Node.js", "Express"],
         },
         databases: ["MongoDB", "MySQL"],
-        devOps: ["Git", "GitHub"],
-        tools: ["VS Code", "Postman"]
+        qa: ["Testes Manuais", "Testes Automatizados", "Selenium", "Postman"],
+        testing: ["Caixa Preta", "Caixa Cinza", "Caixa Branca", "Testes de API"],
+        tools: ["VS Code", "Postman", "Selenium", "Jira", "Git", "GitHub"]
     },
-    currentFocus: "Criando experiencias digitais incriveis",
+    currentFocus: "Criando experiencias digitais confiáveis e escaláveis",
     hobbies: ["Gaming", "Academia", "Moda", "Criar conteudo"],
-    funFact: "Apaixonado por tecnologia, programacao e lifestyle!"
+    funFact: "Dev full-stack com base sólida em QA — entrego código e qualidade!"
 };
 ```
 
 <br>
 
 <div align="center">
-  
-Sou desenvolvedor **full-stack**, **gamer** e **criador de conteúdo**. Apaixonado por tecnologia, programação e criação de experiências digitais.  
-Também produzo conteúdo no Instagram, compartilhando meus **outfits**, **vivências** e **lifestyle**.  
-Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a comunidade! 🌟
+
+Sou desenvolvedor **full-stack** com base sólida em **QA e testes**. Apaixonado por tecnologia, programação e criação de experiências digitais confiáveis.
+Acredito que um bom dev não só escreve código — ele garante que o código **funciona de verdade**. 🌟
+Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a comunidade!
 
 </div>
 
@@ -52,7 +53,7 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ### 🧠 Linguagens
 <div align="center">
-  
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,7 +65,7 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ### ⚛️ Frontend
 <div align="center">
-  
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -75,7 +76,7 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ### ⚙️ Backend & APIs
 <div align="center">
-  
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
@@ -86,7 +87,7 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ### 🗄️ Banco de Dados
 <div align="center">
-  
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -94,14 +95,36 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ---
 
-### ☁️ Infraestrutura & Ferramentas
+### 🔍 QA & Testes
 <div align="center">
-  
+
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+<div align="center">
+
+| Tipo de Teste | Descrição |
+|---|---|
+| 🟦 Caixa Preta | Validação de comportamento externo e regras de negócio |
+| 🟨 Caixa Cinza | Testes com conhecimento parcial da estrutura interna |
+| 🟩 Caixa Branca | Validação de lógica interna e cobertura de código |
+| 🔗 Testes de API | Validação de rotas REST, status codes e payloads |
+| 🤖 Automatizados | Automação de fluxos com Selenium |
+
+</div>
+
+---
+
+### ☁️ Ferramentas & DevOps
+<div align="center">
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -128,26 +151,35 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 # 🎯 Projetos em Destaque
 
-- **[AgendaPro](https://salaoelegancee.netlify.app)** - Plataforma full stack de agendamento e gestão construída com JavaScript (React e Node.js), HTML, CSS e MongoDB, utilizando arquitetura baseada em API REST.
-- **[D-Recorder](https://github.com/Annextt/D-Record)** - Screen Recorder Software desenvolvido do zero com funcionalidades avançadas 
+### 🗓️ [AgendaPro](https://salaoelegancee.netlify.app)
+> Plataforma full-stack de agendamento e gestão construída com **React**, **Node.js**, **Express** e **MongoDB**. Arquitetura baseada em API REST com autenticação JWT, controle de rotas protegidas e interface responsiva com Tailwind CSS.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `REST API` `Tailwind CSS`
+
+---
+
+### 🎥 [D-Recorder](https://github.com/Annextt/D-Record)
+> Screen Recorder Software desenvolvido do zero com funcionalidades avançadas de gravação de tela.
+
+`JavaScript` `Electron` `Desktop App`
+
 ---
 
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
-  
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Recruta0007/featured)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/woo_d4vid/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-nakahara-8a5132320/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdavidnakahara@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://davidportefolio.netlify.app)
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Annextt&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
----
 
 ---
 
@@ -164,10 +196,10 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 ---
 
 <div align="center">
-  
-### ✨ Sempre aprendendo, codando e criando algo novo!
 
-**Obrigado pela visita!** 🚀  
+### ✨ Sempre aprendendo, codando e garantindo qualidade!
+
+**Obrigado pela visita!** 🚀
 Se curtiu meu perfil, não esquece de dar uma ⭐ nos repositórios!
 
 </div>

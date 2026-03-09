@@ -145,7 +145,7 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annextt&bg_color=0d1117&color=00f7ff&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Nakahara&bg_color=0d1117&color=00f7ff&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 
 ---
 

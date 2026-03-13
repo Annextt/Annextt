@@ -141,6 +141,7 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ### 🎥 [Gestor Financeiro](https://github.com/David-Nakahara/financial-manager)
 > O MoneyMind é uma aplicação Full Stack de gestão financeira, com foco em Java, que permite registrar transações, organizar receitas e despesas e visualizar dados financeiros por meio de gráficos.
+
 `Java` `Spring Boot` `Spring Security` `JWT` `H2` `Docker` `React` `JavaScript` `Vite` `Recharts`
 
 ---

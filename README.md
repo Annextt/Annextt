@@ -158,8 +158,8 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ---
 
-### 🎥 [D-Recorder](https://github.com/Annextt/D-Record)
-> Screen Recorder Software desenvolvido do zero com funcionalidades avançadas de gravação de tela.
+### 🎥 [Gestor Financeiro](https://github.com/David-Nakahara/financial-manager)
+> O MoneyMind é uma aplicação Full Stack de gestão financeira, com foco em Java, que permite registrar transações, organizar receitas e despesas e visualizar dados financeiros por meio de gráficos.
 
 `JavaScript` `Electron` `Desktop App`
 

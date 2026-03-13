@@ -130,6 +130,22 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ---
 
+# 🎯 Projetos em Destaque
+
+### 🗓️ [AgendaPro](https://salaoelegancee.netlify.app)
+> Plataforma full-stack de agendamento e gestão construída com **React**, **Node.js**, **Express** e **MongoDB**. Arquitetura baseada em API REST com autenticação JWT, controle de rotas protegidas e interface responsiva com Tailwind CSS.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `REST API` `Tailwind CSS`
+
+---
+
+### 🎥 [Gestor Financeiro](https://github.com/David-Nakahara/financial-manager)
+> O MoneyMind é uma aplicação Full Stack de gestão financeira, com foco em Java, que permite registrar transações, organizar receitas e despesas e visualizar dados financeiros por meio de gráficos.
+
+`JavaScript` `Electron` `Desktop App`
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -149,21 +165,7 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 
 ---
 
-# 🎯 Projetos em Destaque
 
-### 🗓️ [AgendaPro](https://salaoelegancee.netlify.app)
-> Plataforma full-stack de agendamento e gestão construída com **React**, **Node.js**, **Express** e **MongoDB**. Arquitetura baseada em API REST com autenticação JWT, controle de rotas protegidas e interface responsiva com Tailwind CSS.
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `REST API` `Tailwind CSS`
-
----
-
-### 🎥 [Gestor Financeiro](https://github.com/David-Nakahara/financial-manager)
-> O MoneyMind é uma aplicação Full Stack de gestão financeira, com foco em Java, que permite registrar transações, organizar receitas e despesas e visualizar dados financeiros por meio de gráficos.
-
-`JavaScript` `Electron` `Desktop App`
-
----
 
 ## 🌐 Conecte-se Comigo
 

@@ -142,7 +142,21 @@ Sempre buscando **aprender coisas novas** e **compartilhar conhecimento** com a 
 ### 🎥 [Gestor Financeiro](https://github.com/David-Nakahara/financial-manager)
 > O MoneyMind é uma aplicação Full Stack de gestão financeira, com foco em Java, que permite registrar transações, organizar receitas e despesas e visualizar dados financeiros por meio de gráficos.
 
-`JavaScript` `Electron` `Desktop App`
+Java — linguagem principal
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk) — linguagem principal
+* ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot) — framework
+* ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) — autenticação
+* ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens) — tokens de acesso
+* ![H2](https://img.shields.io/badge/H2-004088?style=for-the-badge&logo=h2&logoColor=white) — banco de dados
+* ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle) — gerenciador de dependências
+* ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) — containerização para deploy
+
+Para o front-end:
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) — framework
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) — linguagem principal
+* ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) — bundler
+* ![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge&logo=chartdotjs&logoColor=white) — gráficos
+* ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) — estilização
 
 ---
 
